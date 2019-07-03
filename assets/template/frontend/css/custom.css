@@ -1,0 +1,42 @@
+body {
+  padding-bottom: 20px;
+}
+
+h1{
+  font-size: 28px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+h2{
+  font-size: 25px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+h3{
+  font-size: 22px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+h4{
+  font-size: 19px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+h5{
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+/* The Modal (background) */
+.modal {
+    padding-top: 100px; /* Location of the box */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgba(245, 7, 86, 0.9); /* Fallback color */
+    background-color: rgba(245, 7, 86, 0.9); /* Black w/ opacity */
+}
+
+a:hover, a:visited, a:link, a:active
+{
+  text-decoration: none;
+}
